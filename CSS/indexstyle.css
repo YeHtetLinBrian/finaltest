@@ -144,6 +144,7 @@ position: absolute;
 	font-size: 40px;
 	font-family: Times New Roman;
 	padding-left: 20px;
+	color: red;
 }
 
 .intro_3{
@@ -166,6 +167,22 @@ position: absolute;
 	text-align: center;
 }
 
+.goalsIntro {
+	color: black;
+	background-color: #9f496e;
+	font-size: 40px;
+	font-family: Georgia;
+	text-align: center;
+}
+
+.goalsIntro:hover{
+	background-color:black;
+	color: white;
+}
+
+.goals{
+	height: 200px;
+}
 
 .category_intro{
 	background-color: black /*#647295*/;
@@ -197,4 +214,5 @@ p {
 	margin-right: 5px;
 	margin-bottom: 5px;
 }
+
 
